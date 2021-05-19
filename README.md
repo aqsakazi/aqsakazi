@@ -23,5 +23,5 @@
 <a href="https://open.spotify.com/user/l9d8j7jm61youphsryvmjunk4?si=1022c8b56f064b3f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-### 🎧Spotify Playing 
+## 🎧Spotify Playing 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l9d8j7jm61youphsryvmjunk4&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
