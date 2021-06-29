@@ -23,6 +23,6 @@
 
 ## 📫Find me here
 
-<a href="https://www.linkedin.com/in/aqsakazi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aqsakazi/"><img src="linkedin.png"></a>
 <a href="mailto:aqsazim786@gmail.com? subject=Via Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://open.spotify.com/user/l9d8j7jm61youphsryvmjunk4?si=1022c8b56f064b3f"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/l9d8j7jm61youphsryvmjunk4?si=1022c8b56f064b3f"><img src="spotify.png"></a>
