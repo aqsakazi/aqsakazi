@@ -4,11 +4,14 @@
 [<p align="center">
  <img src="https://komarev.com/ghpvc/?username=aqsakazi&color=blueviolet&style=flat" alt="aqsakazi" />](https://github.com/aqsakazi)
  </p>
+<h4>
 
-- Currently learning Data Structures & Algorithms in Java and Web Development.
+ - Currently learning Data Structures & Algorithms in Java and Web Development.
+
+- Interested in Software Development. 
  
 - Passionate about Machine Learning.
-
+</h4>
 
 ## ⚙️GitHub Analysis
 
