@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=aqsakazi&color=blueviolet&style=flat" alt="aqsakazi" />](https://github.com/aqsakazi)
  </p>
 
-- Currently honing my programming skills and learning web development.
+- Currently learning Data Structures & Algorithms in Java and Web Development.
  
 - Passionate about Machine Learning.
 
