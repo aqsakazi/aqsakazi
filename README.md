@@ -6,7 +6,7 @@
  </p>
 <h4>
 
- - Currently learning Data Structures & Algorithms in Java and Web Development.
+ - Currently learning Data Structures & Algorithms and Web Development.
 
 - Interested in Software Development. 
  
