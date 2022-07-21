@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Aqsa.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<h3 align="center">IT Sophomore at Symbiosis Institute of Technology, Pune.</h3>
+<h3 align="center">IT Junior at Symbiosis Institute of Technology, Pune.</h3>
 
 [<p align="center">
  <img src="https://komarev.com/ghpvc/?username=aqsakazi&color=blueviolet&style=flat" alt="aqsakazi" />](https://github.com/aqsakazi)
