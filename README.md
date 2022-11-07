@@ -6,11 +6,7 @@
  </p>
 <h4>
 
- - Currently learning Data Structures & Algorithms and Web Development.
-
-- Interested in Software Development. 
- 
-- Passionate about Machine Learning.
+ <p align="center">Software Development | Cloud Computing</p>
 </h4>
 
 ## ⚙️GitHub Analysis
